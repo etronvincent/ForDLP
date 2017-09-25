@@ -1,0 +1,1 @@
+cmd /E:ON "rd /s D:\html"
